@@ -1,0 +1,18 @@
+{
+    "name": "dell-v3567/project",
+    "authors": [
+        {
+            "name": "Shwanjeongdae",
+            "email": "www.linheinhtet347@gamil.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.18"
+    },
+    "autoload":{
+        "psr-4": {
+            "Libs\\": "_classes/libs/",
+            "Helpers\\": "_classes/Helpers/"
+        }
+    }
+}
